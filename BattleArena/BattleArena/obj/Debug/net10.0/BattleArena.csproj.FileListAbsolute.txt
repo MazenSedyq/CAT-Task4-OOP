@@ -1,0 +1,15 @@
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task4-OOP\BattleArena\BattleArena\bin\Debug\net10.0\BattleArena.exe
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task4-OOP\BattleArena\BattleArena\bin\Debug\net10.0\BattleArena.deps.json
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task4-OOP\BattleArena\BattleArena\bin\Debug\net10.0\BattleArena.runtimeconfig.json
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task4-OOP\BattleArena\BattleArena\bin\Debug\net10.0\BattleArena.dll
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task4-OOP\BattleArena\BattleArena\bin\Debug\net10.0\BattleArena.pdb
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task4-OOP\BattleArena\BattleArena\obj\Debug\net10.0\BattleArena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task4-OOP\BattleArena\BattleArena\obj\Debug\net10.0\BattleArena.AssemblyInfoInputs.cache
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task4-OOP\BattleArena\BattleArena\obj\Debug\net10.0\BattleArena.AssemblyInfo.cs
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task4-OOP\BattleArena\BattleArena\obj\Debug\net10.0\BattleArena.csproj.CoreCompileInputs.cache
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task4-OOP\BattleArena\BattleArena\obj\Debug\net10.0\BattleArena.sourcelink.json
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task4-OOP\BattleArena\BattleArena\obj\Debug\net10.0\BattleArena.dll
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task4-OOP\BattleArena\BattleArena\obj\Debug\net10.0\refint\BattleArena.dll
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task4-OOP\BattleArena\BattleArena\obj\Debug\net10.0\BattleArena.pdb
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task4-OOP\BattleArena\BattleArena\obj\Debug\net10.0\BattleArena.genruntimeconfig.cache
+C:\Users\ENG_MAZEN\Downloads\My-Github\CAT-Task4-OOP\BattleArena\BattleArena\obj\Debug\net10.0\ref\BattleArena.dll
